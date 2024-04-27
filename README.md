@@ -24,9 +24,6 @@
 
 <div> 
 <h3>📞 Social Midia:</h3>
-<a href="https://www.linkedin.com/in/fabriciossouzalr4/" target="blank">
-  
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white )
-</a>
 
+[![LinkedIn](https://www.linkedin.com/in/fabriciossouzalr4/) (https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ]
 </div>
