@@ -1,6 +1,6 @@
 <h1 align="center">Olá!  Eu sou Fabrício🤓 - Aproveite. </h1>
 
-<h3>Eu sou um pequeno grande homem, entusiasta de tecnologia, buscando trabalho e meu lugar neste mundão.</h3>
+<h3>Eu sou um carinha, entusiasta de tecnologia, buscando trabalho e meu lugar neste mundão.</h3>
 
 - Faço uns trabalhos com meu tio.
 - Estou fazendo faculdade.
